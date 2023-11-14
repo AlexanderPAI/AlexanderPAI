@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1>Hello👋! I am Aleksandr Petrov.</h1>
+  <h1>Hello!👋 I am Aleksandr Petrov.</h1>
   <h3>Python-developer</h3>
 </div>
 
