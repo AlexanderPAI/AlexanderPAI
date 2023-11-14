@@ -7,8 +7,8 @@
 ### About Me :man_technologist::
 - Passed professional retraining at [Yandex Practicum](https://practicum.yandex.ru/) in 2023.
 - I studied `Python3`, `Django`, `DRF`, `fastapi(sync)`, `SQL`, `Docker`.
-- I'm currently learning `asyncio`, `fastapi(async)`, `Elasicsearch`, `MongoDB`.
-- Plans to study `Flask`, `BeautifulSoup`, `pandas`, `threading`.
+- I'm currently learning `asyncio`, `fastapi(async)`, `Elasicsearch`.
+- Plans to study `Flask`, `BeautifulSoup`, `pandas`, `threading`, `MongoDB`.
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>&nbsp;
