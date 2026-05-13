@@ -1,38 +1,26 @@
 
 <div id="header" align="center">
-  <h1>Hello!👋 I am Aleksandr Petrov.</h1>
+  <h1>Приветствую!👋</h1>
   <h3>Python-developer</h3>
 </div>
 
-### About Me :man_technologist::
-- Passed professional retraining at [Yandex Practicum](https://practicum.yandex.ru/) in 2023.
-- `Python`, `Django`, `DRF`, `PostgreSQL`, `Docker`, `asyncio`, `FastAPI`, `Elasicsearch`, `Aiogram`, `aiohttp`, `Celery`, `Redis`.
+Меня зовут Александр Петров.
 
-### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50"/>&nbsp;        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="50" height="50"/>&nbsp;
-          
-          
-          
+## О себе
 
-          
-          
-          
-          
-          
-          
+Я backend-разработчик и руководитель направления по внедрению AI-решений в FinTech-компании.
+Стек, с которым работаю :man_technologist:: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
+
+Активно изучаю C\C++.
+
+В скором времени, когда найду время привести свой GitHub в порядке, выложу здесь ссылки на наиболее интересные, на мой взгляд, репозитории и материалы (свои\чужие)
+
+## Интересные факты:
+- не всю жизнь был разработчиком: 14 лет проработал юристом, а в 2023 году прошел переподготовку в [Yandex Practicum](https://practicum.yandex.ru/);
+- при поиске первой работы в ИТ активно участовал в хакатонах (must have - лучший буст, когда нет опыта);
+- учился на backend-разработчика, никогда не стремился в AI, но так сложилось;
           
 <img src="https://komarev.com/ghpvc/?username=AlexanderPAI&style=flat-square&color=blue" alt=""/>
-
-
 
 <!--
 **AlexanderPAI/AlexanderPAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
