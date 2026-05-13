@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>Приветствую!👋</h1>
-  <h3>Python-developer</h3>
+  <h3>Python Developer</h3>
 </div>
 
 Меня зовут Александр Петров.
@@ -25,9 +25,10 @@
 
 ____
 
-Hello! 👋
-
-Python Developer
+<div id="header" align="center">
+  <h1>Hello! 👋</h1>
+  <h3>Python Developer</h3>
+</div>
 
 My name is Alexander Petrov.
 
