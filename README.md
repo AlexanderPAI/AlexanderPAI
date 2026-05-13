@@ -22,7 +22,33 @@
 - учился на backend-разработчика, никогда не стремился в AI, но так сложилось;
 - считаю GenAI прекрасным инструментом для работы и бизнеса, а не серебряной пулей по замене всех и вся;
 - уверен, что в день, когда мы прекращаем изучать что-то новое для себя, мы перестаем по-настоящему жить.
-          
+
+____
+
+Hello! 👋
+
+Python Developer
+
+My name is Alexander Petrov.
+
+## About me
+
+I am a backend developer and Head of AI Solutions Implementation at a FinTech company.
+
+My tech stack 👨‍💻: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `Alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
+
+Currently actively studying C/C++.
+
+In the near future, once I have time to tidy up my GitHub, I’ll add links to the most interesting repositories and materials (both mine and others).
+
+## Fun facts:
+
+- I wasn’t always a developer: I worked as a lawyer for 14 years, then retrained in 2023 at Yandex Practicum;
+- while looking for my first job in IT, I actively participated in hackathons (a must-have — the best boost when you lack experience);
+- I studied to become a backend developer and never aimed for AI, but things turned out this way;
+- I believe GenAI is a powerful tool for work and business, not a silver bullet to replace everything and everyone;
+- I’m convinced that the day we stop learning something new is the day we stop truly living.
+
 <img src="https://komarev.com/ghpvc/?username=AlexanderPAI&style=flat-square&color=blue" alt=""/>
 
 <!--
