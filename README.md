@@ -9,6 +9,7 @@
 ## О себе
 
 Я backend-разработчик и руководитель направления по внедрению AI-решений в FinTech-компании.
+
 Стек, с которым работаю :man_technologist:: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
 
 Активно изучаю C\C++.
