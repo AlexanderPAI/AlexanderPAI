@@ -14,6 +14,12 @@
 
 Активно изучаю C\C++.
 
+# Разрабатывал, запускал в прод и сопровождал:
+- SPA веб-приложения (Django, DRF, FastAPI)
+- Telegram-боты (от мала до велика, в том числе создавал большие интеграции с различными CRM, БД, системами заказчика)
+- В команде потрясающих профессионалов backend вот этого сервиса для инженеров - https://konergy.ru/ (если Вы читаете это - всегда счастлив с Вами увидеться)
+- AI-агенты и различные AI-based решения в крупной FinTech комании
+
 В скором времени, когда найду время привести это место в порядок, выложу здесь ссылки на наиболее интересные, на мой взгляд, репозитории и материалы (свои\чужие)
 
 ## Интересные факты:
@@ -34,25 +40,31 @@ ____
 
 My name is Alexander Petrov.
 
-## About me
+## About Me
 
 I am a backend developer and Head of AI Solutions Implementation at a FinTech company.
 
-My tech stack 👨‍💻: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `Alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
+Tech stack I work with 👨‍💻: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `Alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
 
-Currently actively studying C/C++.
+I am also actively learning C/C++.
 
-In the near future, once I have time to tidy up my GitHub, I’ll add links to the most interesting repositories and materials (both mine and others).
+## I have developed, launched to production, and maintained:
+- SPA web applications (Django, DRF, FastAPI)
+- Telegram bots of all sizes, including large integrations with various CRMs, databases, and client systems
+- Together with a great team of backend engineers, contributed to this service for engineers — [https://konergy.ru/](https://konergy.ru/) (if you are reading this — always happy to see you again)
+- AI agents and various AI-based solutions in a large FinTech company
 
-## Fun facts:
+Soon, when I find time to put this place in order, I will share links to the repositories and materials that I find most interesting, whether my own or others'.
 
-- I wasn’t always a developer: I worked as a lawyer for 14 years, then retrained in 2023 at Yandex Practicum;
-- while looking for my first job in IT, I actively participated in hackathons (a must-have — the best boost when you lack experience);
-- I studied to become a backend developer and never aimed for AI, but things turned out this way;
-- I believe GenAI is a powerful tool for work and business, not a silver bullet to replace everything and everyone;
-- I’m convinced that the day we stop learning something new is the day we stop truly living.
+## Interesting Facts
+- I was not always a developer: I worked as a lawyer for 14 years, and in 2023 I retrained at [Yandex Practicum](https://practicum.yandex.ru/)
+- While looking for my first job in IT, I actively participated in hackathons (a must-have — one of the best ways to boost your chances when you have no experience)
+- I studied to become a backend developer and never originally planned to move into AI, but life had other ideas
+- I consider GenAI a great tool for work and business, not a silver bullet that will replace everyone and everything
+- I believe that the day we stop learning something new is the day we stop truly living
 
-<img src="https://komarev.com/ghpvc/?username=AlexanderPAI&style=flat-square&color=blue" alt=""/>
+## Contact
+[petrov@backendpages.ru](mailto:petrov@backendpages.ru)
 
 <!--
 **AlexanderPAI/AlexanderPAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
