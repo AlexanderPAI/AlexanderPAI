@@ -17,7 +17,7 @@
 # Разрабатывал, запускал в прод и сопровождал:
 - SPA веб-приложения (Django, DRF, FastAPI)
 - Telegram-боты (от мала до велика, в том числе создавал большие интеграции с различными CRM, БД, системами заказчика)
-- В команде потрясающих профессионалов создавал backend вот этого сервиса для инженеров - https://konergy.ru/ (если Вы читаете это - всегда счастлив с Вами увидеться)
+- В команде потрясающих профессионалов (если Вы читаете это - всегда счастлив с Вами увидеться) создавал backend вот этого сервиса для инженеров - https://konergy.ru/ 
 - AI-агенты и различные AI-based решения в крупной FinTech комании
 
 В скором времени, когда найду время привести это место в порядок, выложу здесь ссылки на наиболее интересные, на мой взгляд, репозитории и материалы (свои\чужие)
@@ -51,7 +51,7 @@ I am also actively learning C/C++.
 ## I have developed, launched to production, and maintained:
 - SPA web applications (Django, DRF, FastAPI)
 - Telegram bots of all sizes, including large integrations with various CRMs, databases, and client systems
-- Together with a great team of backend engineers, contributed to this service for engineers — [https://konergy.ru/](https://konergy.ru/) (if you are reading this — always happy to see you again)
+- Together with a great team of backend engineers (if you are reading this — always happy to see you again), contributed to this service for engineers — [https://konergy.ru/](https://konergy.ru/) 
 - AI agents and various AI-based solutions in a large FinTech company
 
 Soon, when I find time to put this place in order, I will share links to the repositories and materials that I find most interesting, whether my own or others'.
