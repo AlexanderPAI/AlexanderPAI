@@ -25,12 +25,14 @@
 ## Проекты, на которые рекомендую обратить внимание (и мои, и чужие)
 https://github.com/AlexanderPAI/careeradar - персональная система карьерной навигации, которая по резюме кандидата ищет и фильтрует вакансии из различных источников, сохраняет профили и историю подборов и даёт рекомендации по улучшению резюме и решению, стоит ли откликаться на конкретную вакансию.
 
+https://github.com/AlexanderPAI/ai_helper - AI-ассистент для группового чата в Telegram (перечень навыков пополняется со временем)
+
 ## Контакты
 petrov@backendpages.ru
 ____
 
 <div id="header" align="center">
-  <h1>Hello!👋</h1>
+  <h1>Welcome! 👋</h1>
   <h3>Python Developer</h3>
 </div>
 
@@ -40,27 +42,25 @@ My name is Alexander Petrov.
 
 I am a backend developer and Head of AI Solutions Implementation at a FinTech company.
 
-My core tech stack includes: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `Alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
+My technology stack: :man_technologist: `Python`, `AsyncIO`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `alembic`, `Celery`, `Redis`, `Kafka`, `LangChain`, `LangGraph`, `Aiogram`.
 
 I am also actively learning C/C++.
 
-## Projects I Have Built, Launched to Production, and Supported
+## I have developed, deployed to production, and maintained:
+- SPA web applications using Django, DRF, and FastAPI
+- Telegram bots of all sizes, including large-scale integrations with CRMs, databases, and client systems
+- Together with an amazing team of professionals (if you are reading this — I am always glad to catch up), I built the backend for this service for engineers: [konergy.ru](https://konergy.ru/)
+- AI agents and other AI-based solutions at a large FinTech company
 
-- SPA web applications (Django, DRF, FastAPI)
-- Telegram bots (from small to large-scale, including major integrations with various CRMs, databases, and client systems)
-- As part of an amazing team of professionals (if you are reading this — always happy to see you again), contributed to the backend of this engineering service: [https://konergy.ru/](https://konergy.ru/)
-- AI agents and various AI-based solutions at a large FinTech company
+Soon, once I find time to organize this space, I will add links to the most interesting repositories and materials—both my own and those created by others.
 
-Soon, once I find the time to put this place in order, I will share links here to the repositories and materials I find the most interesting, both my own and external.
+## Projects Worth Checking Out
+[careeradar](https://github.com/AlexanderPAI/careeradar) — a personal career-navigation system that uses a candidate’s résumé to search and filter job openings from various sources, saves profiles and search history, and provides recommendations on résumé improvements and whether it is worth applying for a particular position.
 
-## Projects Worth Checking Out (Mine and Others)
+[ai_helper](https://github.com/AlexanderPAI/ai_helper) — an AI assistant for Telegram group chats. Its set of capabilities is continually expanding.
 
-[https://github.com/AlexanderPAI/careeradar](https://github.com/AlexanderPAI/careeradar) — a personal career navigation system that uses a candidate's resume to find and filter job openings from multiple sources, stores profiles and application history, and provides recommendations on how to improve the resume and whether it makes sense to apply for a specific vacancy.
-
-## Contact
-
+## Contacts
 [petrov@backendpages.ru](mailto:petrov@backendpages.ru)
-
 
 <!--
 **AlexanderPAI/AlexanderPAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
