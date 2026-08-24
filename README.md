@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=AlexanderPAI&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <div id="header" align="center">
   <h1>Приветствую!👋</h1>
